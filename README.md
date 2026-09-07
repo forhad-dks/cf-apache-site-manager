@@ -116,7 +116,7 @@ sudo cfsite
 
       Apache HTTPS Site Manager
 
-        Version 1.0  •  By Mr Jack
+        Version 1.0  •  By Md. Forhad Parvez
 ────────────────────────────────────────────────────────────
 
 1) Add HTTPS website
